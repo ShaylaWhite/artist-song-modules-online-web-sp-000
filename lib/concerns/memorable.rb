@@ -1,5 +1,4 @@
 module Memorable
-  extend MetaDancing
  
   def self.reset_all
     self.all.clear
